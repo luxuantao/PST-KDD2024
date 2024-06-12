@@ -471,6 +471,6 @@ def gen_kddcup_test_submission_bert():
 
 
 if __name__ == "__main__":
-    prepare_bert_input()
-    train()
-    # gen_kddcup_test_submission_bert()
+    # prepare_bert_input()
+    # train()
+    gen_kddcup_test_submission_bert()
