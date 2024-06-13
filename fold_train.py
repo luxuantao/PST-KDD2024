@@ -36,7 +36,7 @@ logging.basicConfig(format = '%(asctime)s - %(levelname)s - %(name)s -   %(messa
 logger = logging.getLogger(__name__)
 
 
-model_path = "/mnt/nlp-ali/usr/tiance/PLM/scibert_scivocab_uncased"
+model_path = "allenai/scibert_scivocab_uncased"
 model_name = model_path.split('/')[-1]
 MAX_SEQ_LENGTH=512
 

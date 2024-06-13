@@ -30,7 +30,7 @@ python inference.py
 
 ### fine-tuned model checkpoint
 https://cowtransfer.com/s/16ae2ec3670045 点击链接查看 [ scibert_scivocab_uncased ] ，或访问奶牛快传 cowtransfer.com 输入传输口令 ybag7h 查看；
-
+下载后放在output目录下
 
 ## Results on Valiation Set
 0.36075
